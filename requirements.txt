@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+PyQt5
+requests
+scikit-learn
+numpy 
