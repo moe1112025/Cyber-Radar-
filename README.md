@@ -1,4 +1,4 @@
-# 🛰️ CyberRadar-X (Elite Edition)
+# 🛰️ Cyber-Radar Tool
 
 A real-time cybersecurity visualization and anomaly detection system built with Python.
 
